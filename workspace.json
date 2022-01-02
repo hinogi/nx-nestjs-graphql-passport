@@ -1,6 +1,10 @@
 {
   "version": 2,
   "projects": {
-    "gateway": "apps/gateway"
+    "core": "libs/core",
+    "database": "libs/database",
+    "gateway": "apps/gateway",
+    "interfaces": "libs/interfaces",
+    "types": "libs/types"
   }
 }
