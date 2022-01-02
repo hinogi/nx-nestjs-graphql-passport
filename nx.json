@@ -1,5 +1,5 @@
 {
-  "npmScope": "nx",
+  "npmScope": "hinogi",
   "affected": {
     "defaultBase": "main"
   },

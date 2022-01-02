@@ -15,10 +15,10 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx/core": ["libs/core/src/index.ts"],
-      "@nx/database": ["libs/database/src/index.ts"],
-      "@nx/interfaces": ["libs/interfaces/src/index.ts"],
-      "@nx/types": ["libs/types/src/index.ts"]
+      "@hinogi/core": ["libs/core/src/index.ts"],
+      "@hinogi/database": ["libs/database/src/index.ts"],
+      "@hinogi/interfaces": ["libs/interfaces/src/index.ts"],
+      "@hinogi/types": ["libs/types/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
