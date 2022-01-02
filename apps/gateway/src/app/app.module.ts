@@ -3,9 +3,10 @@ import { CoreModule } from '@hinogi/core'
 
 import { AppController } from './app.controller'
 import { AppService } from './app.service'
+import { GraphqlModule } from '@hinogi/graphql'
 
 @Module({
-  imports: [CoreModule],
+  imports: [CoreModule, GraphqlModule],
   controllers: [AppController],
   providers: [AppService],
 })

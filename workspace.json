@@ -4,6 +4,7 @@
     "core": "libs/core",
     "database": "libs/database",
     "gateway": "apps/gateway",
+    "graphql": "libs/graphql",
     "interfaces": "libs/interfaces",
     "types": "libs/types"
   }
